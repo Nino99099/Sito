@@ -204,6 +204,8 @@ nav .nav-list .nav-link {
         z-index: 999;
         margin-bottom: 50px;
         margin-top: 30px;
+        padding-top: 5px;
+        
       }
 
     h1 {
